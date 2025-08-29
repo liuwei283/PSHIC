@@ -1,0 +1,14 @@
+name: pshic
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - plotly
+  - python
+  - scikit-learn
+  - scipy
+  - statsmodels
